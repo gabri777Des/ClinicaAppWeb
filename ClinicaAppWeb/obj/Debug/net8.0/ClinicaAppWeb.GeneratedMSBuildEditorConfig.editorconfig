@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ClinicaAppWeb
+build_property.RootNamespace = ClinicaAppWeb
+build_property.ProjectDir = C:\Users\sosam\OneDrive\Escritorio\ClinicaAppWeb\ClinicaAppWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sosam\OneDrive\Escritorio\ClinicaAppWeb\ClinicaAppWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Diagnostico/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Diagnostico/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Diagnostico/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Diagnostico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/DtFamiliares/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHRGYW1pbGlhcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/DtFamiliares/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHRGYW1pbGlhcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/DtFamiliares/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHRGYW1pbGlhcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/DtFamiliares/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHRGYW1pbGlhcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Enfermedad/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZWRhZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Enfermedad/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZWRhZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Enfermedad/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZWRhZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Enfermedad/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZWRhZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Expediente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZWRpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Expediente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZWRpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Expediente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZWRpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Expediente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZWRpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Paciente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Paciente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Paciente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Paciente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sosam/OneDrive/Escritorio/ClinicaAppWeb/ClinicaAppWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8r6urz08sp

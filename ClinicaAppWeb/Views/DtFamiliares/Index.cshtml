@@ -1,0 +1,28 @@
+﻿@model IEnumerable<DtFamiliare>
+
+<h2>Pacientes</h2>
+<table>
+    <head>
+        <tr>
+            <th>Nombre</th>
+            <th>Relacion con el paciente</th>
+            <th>Telefono</th>
+            <th>Email</th>
+            <th>Acciones</th>
+        </tr>
+    </head>
+    <tbody>
+        @foreach (var dtFamiliare in Model){
+            <tr>
+                <td>@dtFamiliare.Nombre</td>
+                <td>@dtFamiliare.Relacion_paciente</td>
+                <td>@dtFamiliare.Telefono</td>
+                <td>@dtFamiliare.Email</td>
+                <td>
+                    <a href="@Url.Action("Edit", "DtFamiliare", new { id = dtFamiliare.Id})">Modificar</a>
+                     <a href="@Url.Action("Delete", "DtFamiliare", new { id = dtFamiliare.Id})">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>    

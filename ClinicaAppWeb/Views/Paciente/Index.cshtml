@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Paciente>
+
+<h2>Pacientes</h2>
+<table>
+    <head>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Telefono</th>
+            <th>Email</th>
+            <th>Acciones</th>
+        </tr>
+    </head>
+    <tbody>
+        @foreach (var paciente in Model){
+            <tr>
+                <td>@paciente.Nombre</td>
+                <td>@paciente.Apellido</td>
+                <td>@paciente.Fecha_nacimiento</td>
+                <td>@paciente.Telefono</td>
+                <td>@paciente.Email</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Paciente", new { id = paciente.Id})">Modificar</a>
+                     <a href="@Url.Action("Delete", "Paciente", new { id = paciente.Id})">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>    

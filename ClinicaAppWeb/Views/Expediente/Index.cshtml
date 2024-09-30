@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Expediente>
+
+<h2>Pacientes</h2>
+<table>
+    <head>
+        <tr>
+            <th>Numero de Expediente</th>
+            <th>Fecha de creación de expediente</th>
+            <th>Acciones</th>
+        </tr>
+    </head>
+    <tbody>
+        @foreach (var expediente in Model){
+            <tr>
+                <td>@expediente.Numero_Expediente</td>
+                <td>@expediente.Fecha_creacion</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Expediente", new { id = expediente.Id})">Modificar</a>
+                     <a href="@Url.Action("Delete", "Expediente", new { id = expediente.Id})">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>    
